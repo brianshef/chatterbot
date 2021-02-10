@@ -1,6 +1,6 @@
 # chatterbot
 
-A Discord bot that just chats away, occasionally. Use it to keep the conversation moving in your Discord server.
+A [Discord bot](https://discord.com/developers/applications/809107559033208936/information) that just chats away, occasionally. Use it to keep the conversation moving in your Discord server.
 Every few messages, it will interject with its own. Supply your own custom list of phrases for chatterbot to use, easy-peasy!
 
 ## Usage
